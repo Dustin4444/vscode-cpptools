@@ -6627,7 +6627,7 @@
     "dependencies": {
         "@github/copilot-language-server": "^1.266.0",
         "@vscode/extension-telemetry": "^0.9.6",
-        "chokidar": "^3.6.0",
+        "chokidar": "^4.0.3",
         "comment-json": "^4.2.3",
         "escape-string-regexp": "^2.0.0",
         "glob": "^7.2.3",
