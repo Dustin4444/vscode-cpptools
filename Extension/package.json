@@ -6642,7 +6642,7 @@
         "ssh-config": "^4.4.4",
         "tmp": "^0.2.3",
         "vscode-cpptools": "^6.1.0",
-        "vscode-languageclient": "^8.1.0",
+        "vscode-languageclient": "^9.0.1",
         "vscode-nls": "^5.2.0",
         "vscode-tas-client": "^0.1.84",
         "which": "^2.0.2"
