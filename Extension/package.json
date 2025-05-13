@@ -6645,7 +6645,7 @@
         "vscode-languageclient": "^8.1.0",
         "vscode-nls": "^5.2.0",
         "vscode-tas-client": "^0.1.84",
-        "which": "^2.0.2"
+        "which": "^5.0.0"
     },
     "resolutions": {
         "postcss": "^8.4.31",
