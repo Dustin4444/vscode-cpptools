@@ -6633,7 +6633,7 @@
         "glob": "^7.2.3",
         "minimatch": "^4.2.0",
         "mkdirp": "^3.0.1",
-        "node-fetch": "^2.7.0",
+        "node-fetch": "^3.3.2",
         "node-loader": "^2.0.0",
         "node-stream-zip": "^1.15.0",
         "plist": "^3.1.0",
