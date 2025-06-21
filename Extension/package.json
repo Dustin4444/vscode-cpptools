@@ -6630,7 +6630,7 @@
         "chokidar": "^3.6.0",
         "comment-json": "^4.2.3",
         "escape-string-regexp": "^2.0.0",
-        "glob": "^7.2.3",
+        "glob": "^9.0.0",
         "minimatch": "^4.2.0",
         "mkdirp": "^3.0.1",
         "node-fetch": "^2.7.0",
