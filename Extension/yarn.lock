@@ -823,9 +823,9 @@
   integrity sha1-Ml20I5XNSf5sFAV/mpAOQn34gQ4=
 
 "@xmldom/xmldom@^0.8.8":
-  version "0.8.10"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@xmldom/xmldom/-/xmldom-0.8.10.tgz#a1337ca426aa61cef9fe15b5b28e340a72f6fa99"
-  integrity sha1-oTN8pCaqYc75/hW1so40CnL2+pk=
+  version "0.8.13"
+  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@xmldom/xmldom/-/xmldom-0.8.13.tgz#00d1dd940b218dff2e49309d410d8bb212159225"
+  integrity sha1-ANHdlAshjf8uSTCdQQ2LshIVkiU=
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
